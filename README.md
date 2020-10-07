@@ -1,0 +1,2 @@
+# orikuo.github.io
+Blog
